@@ -1,0 +1,4 @@
+pyttsx3
+lxml
+streamlit
+edge-tts
